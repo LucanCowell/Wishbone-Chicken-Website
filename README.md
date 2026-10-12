@@ -10,3 +10,5 @@ In this DEMO version, the website features an aesthetically pleasing visual desi
 The location is also seen through the use of an iframe from google maps.
 
 At the bottom of the DEMO page, there is the contact section where the users will be able to get in contact with the business for any queries that are not answered through the website.
+
+This project aims to set the standard for the LucanWebDesign's business which means that this first project will be the one that showcases to other potential clients what I am capable of and how it can benefit their business.
