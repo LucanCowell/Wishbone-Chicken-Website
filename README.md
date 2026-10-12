@@ -12,3 +12,5 @@ The location is also seen through the use of an iframe from google maps.
 At the bottom of the DEMO page, there is the contact section where the users will be able to get in contact with the business for any queries that are not answered through the website.
 
 This project aims to set the standard for the LucanWebDesign's business which means that this first project will be the one that showcases to other potential clients what I am capable of and how it can benefit their business.
+
+For the finished result of this webiste, the product selection will be that of the WishBone Chicken selection, as well as pricing and deals to be real and easily updatable depending on the business' plan. I will also aim to include a section which may also be added to the demo website, a "meet the owners" section where the users will get to see the story of wishbone chicken, as well as information about the owners.
