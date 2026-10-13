@@ -292,3 +292,18 @@ body {
   margin: 1rem 0;
   padding: 2rem;
 }
+
+.dealTitle {
+  color: var(--mainRed);
+  font-size: 2rem;
+  text-decoration: underline;
+}
+
+.underline {
+  width: 30rem;
+  height: 1rem;
+  background: var(--mainRed);
+  margin: 0 auto;
+  box-shadow: 1rem 1rem 3rem var(--mainRed);
+  border-radius: 0.5rem;
+}
