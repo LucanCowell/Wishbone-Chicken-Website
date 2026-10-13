@@ -286,3 +286,8 @@ body {
   color: var(--mainBlack);
   text-decoration: none;
 }
+
+.deal {
+  border: 0.5rem solid var(--mainOrange);
+  margin: 1rem 0;
+}
