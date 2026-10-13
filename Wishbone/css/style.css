@@ -306,4 +306,5 @@ body {
   margin: 0 auto;
   box-shadow: 1rem 1rem 3rem var(--mainRed);
   border-radius: 0.5rem;
+  margin-bottom: 2rem;
 }
